@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: appfastfood-pedido
-          image: caikemury/appshakirafastfood:latest
+          image: cezacai7310/app-fastfood-pedido:latest
           ports:
             - containerPort: 8080
           envFrom:
